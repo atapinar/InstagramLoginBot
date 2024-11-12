@@ -8,7 +8,6 @@ This Python script automates the process of logging into Instagram using Seleniu
 * Prerequisites
 * Installation
 * Usage
-* Code Overview
 * Security Considerations
 * Notes
 * References
